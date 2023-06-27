@@ -1,0 +1,379 @@
+[2023-06-27T15:19:39.237883 15644] === CCACHE 4.6 STARTED =========================================
+[2023-06-27T15:19:39.237883 15644] Config: (default) absolute_paths_in_stderr = false
+[2023-06-27T15:19:39.237883 15644] Config: (default) base_dir = 
+[2023-06-27T15:19:39.237883 15644] Config: (environment) cache_dir = C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-06-27T15:19:39.237883 15644] Config: (default) compiler = 
+[2023-06-27T15:19:39.237883 15644] Config: (default) compiler_check = mtime
+[2023-06-27T15:19:39.237883 15644] Config: (default) compiler_type = auto
+[2023-06-27T15:19:39.237883 15644] Config: (default) compression = true
+[2023-06-27T15:19:39.237883 15644] Config: (default) compression_level = 0
+[2023-06-27T15:19:39.237883 15644] Config: (default) cpp_extension = 
+[2023-06-27T15:19:39.237883 15644] Config: (default) debug = false
+[2023-06-27T15:19:39.237883 15644] Config: (default) debug_dir = 
+[2023-06-27T15:19:39.237883 15644] Config: (default) depend_mode = false
+[2023-06-27T15:19:39.237883 15644] Config: (default) direct_mode = true
+[2023-06-27T15:19:39.237883 15644] Config: (default) disable = false
+[2023-06-27T15:19:39.237883 15644] Config: (default) extra_files_to_hash = 
+[2023-06-27T15:19:39.237883 15644] Config: (default) file_clone = false
+[2023-06-27T15:19:39.237883 15644] Config: (default) hard_link = false
+[2023-06-27T15:19:39.237883 15644] Config: (default) hash_dir = true
+[2023-06-27T15:19:39.237883 15644] Config: (default) ignore_headers_in_manifest = 
+[2023-06-27T15:19:39.237883 15644] Config: (default) ignore_options = 
+[2023-06-27T15:19:39.237883 15644] Config: (default) inode_cache = false
+[2023-06-27T15:19:39.237883 15644] Config: (default) keep_comments_cpp = false
+[2023-06-27T15:19:39.237883 15644] Config: (default) limit_multiple = 0.8
+[2023-06-27T15:19:39.237883 15644] Config: (environment) log_file = C:\Users\HERSCH~1\Desktop\test\dennis.build\ccache-30268.txt
+[2023-06-27T15:19:39.237883 15644] Config: (default) max_files = 0
+[2023-06-27T15:19:39.237883 15644] Config: (default) max_size = 5.0G
+[2023-06-27T15:19:39.237883 15644] Config: (default) namespace = 
+[2023-06-27T15:19:39.237883 15644] Config: (default) path = 
+[2023-06-27T15:19:39.237883 15644] Config: (default) pch_external_checksum = false
+[2023-06-27T15:19:39.237883 15644] Config: (default) prefix_command = 
+[2023-06-27T15:19:39.237883 15644] Config: (default) prefix_command_cpp = 
+[2023-06-27T15:19:39.237883 15644] Config: (default) read_only = false
+[2023-06-27T15:19:39.237883 15644] Config: (default) read_only_direct = false
+[2023-06-27T15:19:39.237883 15644] Config: (default) recache = false
+[2023-06-27T15:19:39.237883 15644] Config: (default) reshare = false
+[2023-06-27T15:19:39.237883 15644] Config: (default) run_second_cpp = true
+[2023-06-27T15:19:39.237883 15644] Config: (default) secondary_storage = 
+[2023-06-27T15:19:39.237883 15644] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-06-27T15:19:39.237883 15644] Config: (default) stats = true
+[2023-06-27T15:19:39.237883 15644] Config: (default) stats_log = 
+[2023-06-27T15:19:39.237883 15644] Config: (default) temporary_dir = C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-06-27T15:19:39.237883 15644] Config: (default) umask = 
+[2023-06-27T15:19:39.239401 15644] Command line: C:\Users\herschbachdm\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\herschbachdm\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE_MODE -D_NUITKA_ONEFILE_TEMP_BOOL -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IC:\Users\herschbachdm\AppData\Local\anaconda3\include -I. -IC:\Users\HERSCH~1\AppData\Local\ANACON~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\HERSCH~1\AppData\Local\ANACON~1\lib\SITE-P~1\nuitka\build\static_src __constants.c
+[2023-06-27T15:19:39.268475 11508] === CCACHE 4.6 STARTED =========================================
+[2023-06-27T15:19:39.268475 11508] Config: (default) absolute_paths_in_stderr = false
+[2023-06-27T15:19:39.268475 11508] Config: (default) base_dir = 
+[2023-06-27T15:19:39.268475 11508] Config: (environment) cache_dir = C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-06-27T15:19:39.268475 11508] Config: (default) compiler = 
+[2023-06-27T15:19:39.268475 11508] Config: (default) compiler_check = mtime
+[2023-06-27T15:19:39.268475 11508] Config: (default) compiler_type = auto
+[2023-06-27T15:19:39.268475 11508] Config: (default) compression = true
+[2023-06-27T15:19:39.268475 11508] Config: (default) compression_level = 0
+[2023-06-27T15:19:39.268475 11508] Config: (default) cpp_extension = 
+[2023-06-27T15:19:39.268475 11508] Config: (default) debug = false
+[2023-06-27T15:19:39.268475 11508] Config: (default) debug_dir = 
+[2023-06-27T15:19:39.268475 11508] Config: (default) depend_mode = false
+[2023-06-27T15:19:39.268475 11508] Config: (default) direct_mode = true
+[2023-06-27T15:19:39.268475 11508] Config: (default) disable = false
+[2023-06-27T15:19:39.268475 11508] Config: (default) extra_files_to_hash = 
+[2023-06-27T15:19:39.268475 11508] Config: (default) file_clone = false
+[2023-06-27T15:19:39.268475 11508] Config: (default) hard_link = false
+[2023-06-27T15:19:39.268475 11508] Config: (default) hash_dir = true
+[2023-06-27T15:19:39.268475 11508] Config: (default) ignore_headers_in_manifest = 
+[2023-06-27T15:19:39.268475 11508] Config: (default) ignore_options = 
+[2023-06-27T15:19:39.268475 11508] Config: (default) inode_cache = false
+[2023-06-27T15:19:39.268475 11508] Config: (default) keep_comments_cpp = false
+[2023-06-27T15:19:39.268475 11508] Config: (default) limit_multiple = 0.8
+[2023-06-27T15:19:39.268475 11508] Config: (environment) log_file = C:\Users\HERSCH~1\Desktop\test\dennis.build\ccache-30268.txt
+[2023-06-27T15:19:39.268475 11508] Config: (default) max_files = 0
+[2023-06-27T15:19:39.268475 11508] Config: (default) max_size = 5.0G
+[2023-06-27T15:19:39.268475 11508] Config: (default) namespace = 
+[2023-06-27T15:19:39.268475 11508] Config: (default) path = 
+[2023-06-27T15:19:39.268475 11508] Config: (default) pch_external_checksum = false
+[2023-06-27T15:19:39.268475 11508] Config: (default) prefix_command = 
+[2023-06-27T15:19:39.268475 11508] Config: (default) prefix_command_cpp = 
+[2023-06-27T15:19:39.268475 11508] Config: (default) read_only = false
+[2023-06-27T15:19:39.268475 11508] Config: (default) read_only_direct = false
+[2023-06-27T15:19:39.268475 11508] Config: (default) recache = false
+[2023-06-27T15:19:39.268475 11508] Config: (default) reshare = false
+[2023-06-27T15:19:39.268475 11508] Config: (default) run_second_cpp = true
+[2023-06-27T15:19:39.268475 11508] Config: (default) secondary_storage = 
+[2023-06-27T15:19:39.268475 11508] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-06-27T15:19:39.268475 11508] Config: (default) stats = true
+[2023-06-27T15:19:39.268475 11508] Config: (default) stats_log = 
+[2023-06-27T15:19:39.268475 11508] Config: (default) temporary_dir = C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-06-27T15:19:39.268475 11508] Config: (default) umask = 
+[2023-06-27T15:19:39.268974 11508] Command line: C:\Users\herschbachdm\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\herschbachdm\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __helpers.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE_MODE -D_NUITKA_ONEFILE_TEMP_BOOL -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IC:\Users\herschbachdm\AppData\Local\anaconda3\include -I. -IC:\Users\HERSCH~1\AppData\Local\ANACON~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\HERSCH~1\AppData\Local\ANACON~1\lib\SITE-P~1\nuitka\build\static_src __helpers.c
+[2023-06-27T15:19:39.279281 15644] Hostname: NCI-02227278-L
+[2023-06-27T15:19:39.279281 15644] Working directory: C:/Users/HERSCH~1/Desktop/test/dennis.build
+[2023-06-27T15:19:39.279281 15644] Compiler type: gcc
+[2023-06-27T15:19:39.281979 15644] Source file: __constants.c
+[2023-06-27T15:19:39.281979 15644] Object file: __constants.o
+[2023-06-27T15:19:39.281979 15644] Trying direct lookup
+[2023-06-27T15:19:39.283475 15644] Retrieved dff6svsrvh0sc3un15goo4g7miue39fsi from primary storage (C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/f/f6svsrvh0sc3un15goo4g7miue39fsiM)
+[2023-06-27T15:19:39.284407 15644] Looking for result key in C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/f/f6svsrvh0sc3un15goo4g7miue39fsiM
+[2023-06-27T15:19:39.316181 11508] Hostname: NCI-02227278-L
+[2023-06-27T15:19:39.316686 11508] Working directory: C:/Users/HERSCH~1/Desktop/test/dennis.build
+[2023-06-27T15:19:39.316686 11508] Compiler type: gcc
+[2023-06-27T15:19:39.317681 11508] Source file: __helpers.c
+[2023-06-27T15:19:39.317901 11508] Object file: __helpers.o
+[2023-06-27T15:19:39.317901 11508] Trying direct lookup
+[2023-06-27T15:19:39.318898 11508] Retrieved 0ba1c1dck0gfqgqbeuakj9kpq65qevoea from primary storage (C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/b/a1c1dck0gfqgqbeuakj9kpq65qevoeaM)
+[2023-06-27T15:19:39.319399 11508] Looking for result key in C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/b/a1c1dck0gfqgqbeuakj9kpq65qevoeaM
+[2023-06-27T15:19:39.344625 30624] === CCACHE 4.6 STARTED =========================================
+[2023-06-27T15:19:39.344625 30624] Config: (default) absolute_paths_in_stderr = false
+[2023-06-27T15:19:39.344625 30624] Config: (default) base_dir = 
+[2023-06-27T15:19:39.344625 30624] Config: (environment) cache_dir = C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-06-27T15:19:39.344625 30624] Config: (default) compiler = 
+[2023-06-27T15:19:39.344625 30624] Config: (default) compiler_check = mtime
+[2023-06-27T15:19:39.344625 30624] Config: (default) compiler_type = auto
+[2023-06-27T15:19:39.344625 30624] Config: (default) compression = true
+[2023-06-27T15:19:39.344625 30624] Config: (default) compression_level = 0
+[2023-06-27T15:19:39.344625 30624] Config: (default) cpp_extension = 
+[2023-06-27T15:19:39.344625 30624] Config: (default) debug = false
+[2023-06-27T15:19:39.344625 30624] Config: (default) debug_dir = 
+[2023-06-27T15:19:39.344625 30624] Config: (default) depend_mode = false
+[2023-06-27T15:19:39.344625 30624] Config: (default) direct_mode = true
+[2023-06-27T15:19:39.344625 30624] Config: (default) disable = false
+[2023-06-27T15:19:39.344625 30624] Config: (default) extra_files_to_hash = 
+[2023-06-27T15:19:39.344625 30624] Config: (default) file_clone = false
+[2023-06-27T15:19:39.344625 30624] Config: (default) hard_link = false
+[2023-06-27T15:19:39.344625 30624] Config: (default) hash_dir = true
+[2023-06-27T15:19:39.344625 30624] Config: (default) ignore_headers_in_manifest = 
+[2023-06-27T15:19:39.344625 30624] Config: (default) ignore_options = 
+[2023-06-27T15:19:39.344625 30624] Config: (default) inode_cache = false
+[2023-06-27T15:19:39.344625 30624] Config: (default) keep_comments_cpp = false
+[2023-06-27T15:19:39.344625 30624] Config: (default) limit_multiple = 0.8
+[2023-06-27T15:19:39.344625 30624] Config: (environment) log_file = C:\Users\HERSCH~1\Desktop\test\dennis.build\ccache-30268.txt
+[2023-06-27T15:19:39.344625 30624] Config: (default) max_files = 0
+[2023-06-27T15:19:39.344625 30624] Config: (default) max_size = 5.0G
+[2023-06-27T15:19:39.344625 30624] Config: (default) namespace = 
+[2023-06-27T15:19:39.344625 30624] Config: (default) path = 
+[2023-06-27T15:19:39.344625 30624] Config: (default) pch_external_checksum = false
+[2023-06-27T15:19:39.344625 30624] Config: (default) prefix_command = 
+[2023-06-27T15:19:39.344625 30624] Config: (default) prefix_command_cpp = 
+[2023-06-27T15:19:39.344625 30624] Config: (default) read_only = false
+[2023-06-27T15:19:39.344625 30624] Config: (default) read_only_direct = false
+[2023-06-27T15:19:39.344625 30624] Config: (default) recache = false
+[2023-06-27T15:19:39.344625 30624] Config: (default) reshare = false
+[2023-06-27T15:19:39.344625 30624] Config: (default) run_second_cpp = true
+[2023-06-27T15:19:39.344625 30624] Config: (default) secondary_storage = 
+[2023-06-27T15:19:39.344625 30624] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-06-27T15:19:39.344625 30624] Config: (default) stats = true
+[2023-06-27T15:19:39.344625 30624] Config: (default) stats_log = 
+[2023-06-27T15:19:39.344625 30624] Config: (default) temporary_dir = C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-06-27T15:19:39.344625 30624] Config: (default) umask = 
+[2023-06-27T15:19:39.345123 30624] Command line: C:\Users\herschbachdm\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\herschbachdm\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE_MODE -D_NUITKA_ONEFILE_TEMP_BOOL -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IC:\Users\herschbachdm\AppData\Local\anaconda3\include -I. -IC:\Users\HERSCH~1\AppData\Local\ANACON~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\HERSCH~1\AppData\Local\ANACON~1\lib\SITE-P~1\nuitka\build\static_src __loader.c
+[2023-06-27T15:19:39.376192 30624] Hostname: NCI-02227278-L
+[2023-06-27T15:19:39.376192 30624] Working directory: C:/Users/HERSCH~1/Desktop/test/dennis.build
+[2023-06-27T15:19:39.376192 30624] Compiler type: gcc
+[2023-06-27T15:19:39.378689 30624] Source file: __loader.c
+[2023-06-27T15:19:39.378689 30624] Object file: __loader.o
+[2023-06-27T15:19:39.379162 30624] Trying direct lookup
+[2023-06-27T15:19:39.380161 30624] Retrieved b05anms6rk8rk0htvn4oa38u3t42nhqsk from primary storage (C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/0/5anms6rk8rk0htvn4oa38u3t42nhqskM)
+[2023-06-27T15:19:39.381477 30624] Looking for result key in C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/0/5anms6rk8rk0htvn4oa38u3t42nhqskM
+[2023-06-27T15:19:39.444532 21992] === CCACHE 4.6 STARTED =========================================
+[2023-06-27T15:19:39.444532 21992] Config: (default) absolute_paths_in_stderr = false
+[2023-06-27T15:19:39.444532 21992] Config: (default) base_dir = 
+[2023-06-27T15:19:39.444532 21992] Config: (environment) cache_dir = C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-06-27T15:19:39.444532 21992] Config: (default) compiler = 
+[2023-06-27T15:19:39.444532 21992] Config: (default) compiler_check = mtime
+[2023-06-27T15:19:39.444532 21992] Config: (default) compiler_type = auto
+[2023-06-27T15:19:39.444532 21992] Config: (default) compression = true
+[2023-06-27T15:19:39.444532 21992] Config: (default) compression_level = 0
+[2023-06-27T15:19:39.444532 21992] Config: (default) cpp_extension = 
+[2023-06-27T15:19:39.444532 21992] Config: (default) debug = false
+[2023-06-27T15:19:39.444532 21992] Config: (default) debug_dir = 
+[2023-06-27T15:19:39.444532 21992] Config: (default) depend_mode = false
+[2023-06-27T15:19:39.444532 21992] Config: (default) direct_mode = true
+[2023-06-27T15:19:39.444532 21992] Config: (default) disable = false
+[2023-06-27T15:19:39.444532 21992] Config: (default) extra_files_to_hash = 
+[2023-06-27T15:19:39.444532 21992] Config: (default) file_clone = false
+[2023-06-27T15:19:39.444532 21992] Config: (default) hard_link = false
+[2023-06-27T15:19:39.444532 21992] Config: (default) hash_dir = true
+[2023-06-27T15:19:39.444532 21992] Config: (default) ignore_headers_in_manifest = 
+[2023-06-27T15:19:39.444532 21992] Config: (default) ignore_options = 
+[2023-06-27T15:19:39.444532 21992] Config: (default) inode_cache = false
+[2023-06-27T15:19:39.444532 21992] Config: (default) keep_comments_cpp = false
+[2023-06-27T15:19:39.444532 21992] Config: (default) limit_multiple = 0.8
+[2023-06-27T15:19:39.444532 21992] Config: (environment) log_file = C:\Users\HERSCH~1\Desktop\test\dennis.build\ccache-30268.txt
+[2023-06-27T15:19:39.444532 21992] Config: (default) max_files = 0
+[2023-06-27T15:19:39.444532 21992] Config: (default) max_size = 5.0G
+[2023-06-27T15:19:39.444532 21992] Config: (default) namespace = 
+[2023-06-27T15:19:39.444532 21992] Config: (default) path = 
+[2023-06-27T15:19:39.444532 21992] Config: (default) pch_external_checksum = false
+[2023-06-27T15:19:39.444532 21992] Config: (default) prefix_command = 
+[2023-06-27T15:19:39.444532 21992] Config: (default) prefix_command_cpp = 
+[2023-06-27T15:19:39.444532 21992] Config: (default) read_only = false
+[2023-06-27T15:19:39.444532 21992] Config: (default) read_only_direct = false
+[2023-06-27T15:19:39.444532 21992] Config: (default) recache = false
+[2023-06-27T15:19:39.444532 21992] Config: (default) reshare = false
+[2023-06-27T15:19:39.444532 21992] Config: (default) run_second_cpp = true
+[2023-06-27T15:19:39.444532 21992] Config: (default) secondary_storage = 
+[2023-06-27T15:19:39.444532 21992] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-06-27T15:19:39.444532 21992] Config: (default) stats = true
+[2023-06-27T15:19:39.444532 21992] Config: (default) stats_log = 
+[2023-06-27T15:19:39.444532 21992] Config: (default) temporary_dir = C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-06-27T15:19:39.444532 21992] Config: (default) umask = 
+[2023-06-27T15:19:39.445662 21992] Command line: C:\Users\herschbachdm\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\herschbachdm\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE_MODE -D_NUITKA_ONEFILE_TEMP_BOOL -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IC:\Users\herschbachdm\AppData\Local\anaconda3\include -I. -IC:\Users\HERSCH~1\AppData\Local\ANACON~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\HERSCH~1\AppData\Local\ANACON~1\lib\SITE-P~1\nuitka\build\static_src module.__main__.c
+[2023-06-27T15:19:39.449232 28132] === CCACHE 4.6 STARTED =========================================
+[2023-06-27T15:19:39.449232 28132] Config: (default) absolute_paths_in_stderr = false
+[2023-06-27T15:19:39.449232 28132] Config: (default) base_dir = 
+[2023-06-27T15:19:39.449232 28132] Config: (environment) cache_dir = C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-06-27T15:19:39.449232 28132] Config: (default) compiler = 
+[2023-06-27T15:19:39.449232 28132] Config: (default) compiler_check = mtime
+[2023-06-27T15:19:39.449232 28132] Config: (default) compiler_type = auto
+[2023-06-27T15:19:39.449232 28132] Config: (default) compression = true
+[2023-06-27T15:19:39.449232 28132] Config: (default) compression_level = 0
+[2023-06-27T15:19:39.449232 28132] Config: (default) cpp_extension = 
+[2023-06-27T15:19:39.449232 28132] Config: (default) debug = false
+[2023-06-27T15:19:39.449232 28132] Config: (default) debug_dir = 
+[2023-06-27T15:19:39.449232 28132] Config: (default) depend_mode = false
+[2023-06-27T15:19:39.449232 28132] Config: (default) direct_mode = true
+[2023-06-27T15:19:39.449232 28132] Config: (default) disable = false
+[2023-06-27T15:19:39.449232 28132] Config: (default) extra_files_to_hash = 
+[2023-06-27T15:19:39.449232 28132] Config: (default) file_clone = false
+[2023-06-27T15:19:39.449232 28132] Config: (default) hard_link = false
+[2023-06-27T15:19:39.449232 28132] Config: (default) hash_dir = true
+[2023-06-27T15:19:39.449232 28132] Config: (default) ignore_headers_in_manifest = 
+[2023-06-27T15:19:39.449232 28132] Config: (default) ignore_options = 
+[2023-06-27T15:19:39.449232 28132] Config: (default) inode_cache = false
+[2023-06-27T15:19:39.449232 28132] Config: (default) keep_comments_cpp = false
+[2023-06-27T15:19:39.449232 28132] Config: (default) limit_multiple = 0.8
+[2023-06-27T15:19:39.449232 28132] Config: (environment) log_file = C:\Users\HERSCH~1\Desktop\test\dennis.build\ccache-30268.txt
+[2023-06-27T15:19:39.449232 28132] Config: (default) max_files = 0
+[2023-06-27T15:19:39.449232 28132] Config: (default) max_size = 5.0G
+[2023-06-27T15:19:39.449232 28132] Config: (default) namespace = 
+[2023-06-27T15:19:39.449232 28132] Config: (default) path = 
+[2023-06-27T15:19:39.449232 28132] Config: (default) pch_external_checksum = false
+[2023-06-27T15:19:39.449232 28132] Config: (default) prefix_command = 
+[2023-06-27T15:19:39.449232 28132] Config: (default) prefix_command_cpp = 
+[2023-06-27T15:19:39.449232 28132] Config: (default) read_only = false
+[2023-06-27T15:19:39.449232 28132] Config: (default) read_only_direct = false
+[2023-06-27T15:19:39.449232 28132] Config: (default) recache = false
+[2023-06-27T15:19:39.449232 28132] Config: (default) reshare = false
+[2023-06-27T15:19:39.449232 28132] Config: (default) run_second_cpp = true
+[2023-06-27T15:19:39.449232 28132] Config: (default) secondary_storage = 
+[2023-06-27T15:19:39.449232 28132] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-06-27T15:19:39.449232 28132] Config: (default) stats = true
+[2023-06-27T15:19:39.449232 28132] Config: (default) stats_log = 
+[2023-06-27T15:19:39.449232 28132] Config: (default) temporary_dir = C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-06-27T15:19:39.449232 28132] Config: (default) umask = 
+[2023-06-27T15:19:39.450684 28132] Command line: C:\Users\herschbachdm\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\herschbachdm\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE_MODE -D_NUITKA_ONEFILE_TEMP_BOOL -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IC:\Users\herschbachdm\AppData\Local\anaconda3\include -I. -IC:\Users\HERSCH~1\AppData\Local\ANACON~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\HERSCH~1\AppData\Local\ANACON~1\lib\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2023-06-27T15:19:39.496363 21992] Hostname: NCI-02227278-L
+[2023-06-27T15:19:39.496363 21992] Working directory: C:/Users/HERSCH~1/Desktop/test/dennis.build
+[2023-06-27T15:19:39.496363 21992] Compiler type: gcc
+[2023-06-27T15:19:39.497747 21992] Source file: module.__main__.c
+[2023-06-27T15:19:39.497747 21992] Object file: module.__main__.o
+[2023-06-27T15:19:39.498236 21992] Trying direct lookup
+[2023-06-27T15:19:39.499800 21992] No d71467v3v2pjabcgj7l1l5hr85a8ckooi in primary storage
+[2023-06-27T15:19:39.504941 21992] Running preprocessor
+[2023-06-27T15:19:39.504941 28132] Hostname: NCI-02227278-L
+[2023-06-27T15:19:39.504941 28132] Working directory: C:/Users/HERSCH~1/Desktop/test/dennis.build
+[2023-06-27T15:19:39.504941 28132] Compiler type: gcc
+[2023-06-27T15:19:39.506062 28132] Source file: static_src\MainProgram.c
+[2023-06-27T15:19:39.506062 28132] Object file: static_src\MainProgram.o
+[2023-06-27T15:19:39.506708 28132] Trying direct lookup
+[2023-06-27T15:19:39.521311 28132] Retrieved 3b85f4k39c2reafnvouk9cj368vpqvpci from primary storage (C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/b/85f4k39c2reafnvouk9cj368vpqvpciM)
+[2023-06-27T15:19:39.524238 30624] Got result key from manifest
+[2023-06-27T15:19:39.525253 30624] Retrieved 198cqsjpua4bg0s5o7gv8lcgdr8ob5vp6 from primary storage (C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/9/8cqsjpua4bg0s5o7gv8lcgdr8ob5vp6R)
+[2023-06-27T15:19:39.530360 28132] Looking for result key in C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/b/85f4k39c2reafnvouk9cj368vpqvpciM
+[2023-06-27T15:19:39.551025 30624] Reading embedded entry #0 .o (22811 bytes)
+[2023-06-27T15:19:39.551025 30624] Writing to __loader.o
+[2023-06-27T15:19:39.552231 30624] Succeeded getting cached result
+[2023-06-27T15:19:39.552732 30624] Result: direct_cache_hit
+[2023-06-27T15:19:39.552732 30624] Result: primary_storage_hit
+[2023-06-27T15:19:39.555143 30624] Acquired lock C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/0/stats.lock
+[2023-06-27T15:19:39.560517 30624] Releasing lock C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/0/stats.lock
+[2023-06-27T15:19:39.679233 15644] Got result key from manifest
+[2023-06-27T15:19:39.680260 15644] Retrieved 6723oa0krfbhjpbkc6gr894saj3ouoj50 from primary storage (C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/7/23oa0krfbhjpbkc6gr894saj3ouoj50R)
+[2023-06-27T15:19:39.683949 15644] Reading embedded entry #0 .o (2814 bytes)
+[2023-06-27T15:19:39.683949 15644] Writing to __constants.o
+[2023-06-27T15:19:39.685450 15644] Succeeded getting cached result
+[2023-06-27T15:19:39.685450 15644] Result: direct_cache_hit
+[2023-06-27T15:19:39.685450 15644] Result: primary_storage_hit
+[2023-06-27T15:19:39.688466 15644] Acquired lock C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/c/stats.lock
+[2023-06-27T15:19:39.693619 15644] Releasing lock C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/c/stats.lock
+[2023-06-27T15:19:39.713289 11508] Got result key from manifest
+[2023-06-27T15:19:39.713662 11508] Retrieved 9042b56sf4jra8jhvrolujic09c6i9j92 from primary storage (C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/0/42b56sf4jra8jhvrolujic09c6i9j92R)
+[2023-06-27T15:19:39.714873 11508] Reading embedded entry #0 .o (466 bytes)
+[2023-06-27T15:19:39.715372 11508] Writing to __helpers.o
+[2023-06-27T15:19:39.716697 11508] Succeeded getting cached result
+[2023-06-27T15:19:39.716697 11508] Result: direct_cache_hit
+[2023-06-27T15:19:39.716697 11508] Result: primary_storage_hit
+[2023-06-27T15:19:39.719390 11508] Acquired lock C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/4/stats.lock
+[2023-06-27T15:19:39.725134 11508] Releasing lock C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/4/stats.lock
+[2023-06-27T15:19:39.798927 28132] Got result key from manifest
+[2023-06-27T15:19:39.798927 28132] Retrieved ee26pkbk1um6dq8ugrntq9bp3afguqcfs from primary storage (C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/e/26pkbk1um6dq8ugrntq9bp3afguqcfsR)
+[2023-06-27T15:19:39.803384 28132] Reading embedded entry #0 .o (9711 bytes)
+[2023-06-27T15:19:39.803384 28132] Writing to static_src\MainProgram.o
+[2023-06-27T15:19:39.805162 28132] Succeeded getting cached result
+[2023-06-27T15:19:39.805162 28132] Result: direct_cache_hit
+[2023-06-27T15:19:39.805162 28132] Result: primary_storage_hit
+[2023-06-27T15:19:39.809995 28132] Acquired lock C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/4/stats.lock
+[2023-06-27T15:19:39.816066 28132] Releasing lock C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/4/stats.lock
+[2023-06-27T15:19:40.131868 28552] === CCACHE 4.6 STARTED =========================================
+[2023-06-27T15:19:40.131868 28552] Config: (default) absolute_paths_in_stderr = false
+[2023-06-27T15:19:40.131868 28552] Config: (default) base_dir = 
+[2023-06-27T15:19:40.131868 28552] Config: (environment) cache_dir = C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2023-06-27T15:19:40.131868 28552] Config: (default) compiler = 
+[2023-06-27T15:19:40.131868 28552] Config: (default) compiler_check = mtime
+[2023-06-27T15:19:40.131868 28552] Config: (default) compiler_type = auto
+[2023-06-27T15:19:40.131868 28552] Config: (default) compression = true
+[2023-06-27T15:19:40.131868 28552] Config: (default) compression_level = 0
+[2023-06-27T15:19:40.131868 28552] Config: (default) cpp_extension = 
+[2023-06-27T15:19:40.131868 28552] Config: (default) debug = false
+[2023-06-27T15:19:40.131868 28552] Config: (default) debug_dir = 
+[2023-06-27T15:19:40.131868 28552] Config: (default) depend_mode = false
+[2023-06-27T15:19:40.131868 28552] Config: (default) direct_mode = true
+[2023-06-27T15:19:40.131868 28552] Config: (default) disable = false
+[2023-06-27T15:19:40.131868 28552] Config: (default) extra_files_to_hash = 
+[2023-06-27T15:19:40.131868 28552] Config: (default) file_clone = false
+[2023-06-27T15:19:40.131868 28552] Config: (default) hard_link = false
+[2023-06-27T15:19:40.131868 28552] Config: (default) hash_dir = true
+[2023-06-27T15:19:40.131868 28552] Config: (default) ignore_headers_in_manifest = 
+[2023-06-27T15:19:40.131868 28552] Config: (default) ignore_options = 
+[2023-06-27T15:19:40.131868 28552] Config: (default) inode_cache = false
+[2023-06-27T15:19:40.131868 28552] Config: (default) keep_comments_cpp = false
+[2023-06-27T15:19:40.131868 28552] Config: (default) limit_multiple = 0.8
+[2023-06-27T15:19:40.131868 28552] Config: (environment) log_file = C:\Users\HERSCH~1\Desktop\test\dennis.build\ccache-30268.txt
+[2023-06-27T15:19:40.131868 28552] Config: (default) max_files = 0
+[2023-06-27T15:19:40.131868 28552] Config: (default) max_size = 5.0G
+[2023-06-27T15:19:40.131868 28552] Config: (default) namespace = 
+[2023-06-27T15:19:40.131868 28552] Config: (default) path = 
+[2023-06-27T15:19:40.131868 28552] Config: (default) pch_external_checksum = false
+[2023-06-27T15:19:40.131868 28552] Config: (default) prefix_command = 
+[2023-06-27T15:19:40.131868 28552] Config: (default) prefix_command_cpp = 
+[2023-06-27T15:19:40.131868 28552] Config: (default) read_only = false
+[2023-06-27T15:19:40.131868 28552] Config: (default) read_only_direct = false
+[2023-06-27T15:19:40.131868 28552] Config: (default) recache = false
+[2023-06-27T15:19:40.131868 28552] Config: (default) reshare = false
+[2023-06-27T15:19:40.131868 28552] Config: (default) run_second_cpp = true
+[2023-06-27T15:19:40.131868 28552] Config: (default) secondary_storage = 
+[2023-06-27T15:19:40.131868 28552] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-06-27T15:19:40.131868 28552] Config: (default) stats = true
+[2023-06-27T15:19:40.131868 28552] Config: (default) stats_log = 
+[2023-06-27T15:19:40.131868 28552] Config: (default) temporary_dir = C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2023-06-27T15:19:40.131868 28552] Config: (default) umask = 
+[2023-06-27T15:19:40.131868 28552] Command line: C:\Users\herschbachdm\AppData\Local\Nuitka\Nuitka\Cache\downloads\ccache\v4.6\ccache.exe C:\Users\herschbachdm\AppData\Local\Nuitka\Nuitka\Cache\downloads\gcc\x86_64\11.3.0-14.0.3-10.0.0-msvcrt-r3\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE_MODE -D_NUITKA_ONEFILE_TEMP_BOOL -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=153 -D_NUITKA_EXE -IC:\Users\herschbachdm\AppData\Local\anaconda3\include -I. -IC:\Users\HERSCH~1\AppData\Local\ANACON~1\lib\SITE-P~1\nuitka\build\include -IC:\Users\HERSCH~1\AppData\Local\ANACON~1\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2023-06-27T15:19:40.147717 28552] Hostname: NCI-02227278-L
+[2023-06-27T15:19:40.147717 28552] Working directory: C:/Users/HERSCH~1/Desktop/test/dennis.build
+[2023-06-27T15:19:40.148220 28552] Compiler type: gcc
+[2023-06-27T15:19:40.148528 28552] Source file: static_src\CompiledFunctionType.c
+[2023-06-27T15:19:40.148528 28552] Object file: static_src\CompiledFunctionType.o
+[2023-06-27T15:19:40.148528 28552] Trying direct lookup
+[2023-06-27T15:19:40.150472 28552] Retrieved ef9bfg3kp2ga4omtk2v4uk5agbbihldkq from primary storage (C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/f/9bfg3kp2ga4omtk2v4uk5agbbihldkqM)
+[2023-06-27T15:19:40.152471 28552] Looking for result key in C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/f/9bfg3kp2ga4omtk2v4uk5agbbihldkqM
+[2023-06-27T15:19:40.424511 28552] Got result key from manifest
+[2023-06-27T15:19:40.424511 28552] Retrieved 76edn4q74jml112124ljl4622mauv1tdq from primary storage (C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/6/edn4q74jml112124ljl4622mauv1tdqR)
+[2023-06-27T15:19:40.427160 28552] Reading embedded entry #0 .o (901059 bytes)
+[2023-06-27T15:19:40.427160 28552] Writing to static_src\CompiledFunctionType.o
+[2023-06-27T15:19:40.436892 28552] Succeeded getting cached result
+[2023-06-27T15:19:40.437892 28552] Result: direct_cache_hit
+[2023-06-27T15:19:40.437892 28552] Result: primary_storage_hit
+[2023-06-27T15:19:40.440883 28552] Acquired lock C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/8/stats.lock
+[2023-06-27T15:19:40.446285 28552] Releasing lock C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/8/stats.lock
+[2023-06-27T15:19:42.683154 21992] Got result key from preprocessor
+[2023-06-27T15:19:42.683154 21992] No 7b1fdbfaacfcbo212kfnte8e3pl4h0jja in primary storage
+[2023-06-27T15:19:42.683154 21992] Running real compiler
+[2023-06-27T15:19:45.623855 21992] Using default compression level 1
+[2023-06-27T15:19:45.624961 21992] Storing embedded entry #0 .o (6156 bytes) from module.__main__.o
+[2023-06-27T15:19:45.629791 21992] Stored 7b1fdbfaacfcbo212kfnte8e3pl4h0jja in primary storage (C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/b/1fdbfaacfcbo212kfnte8e3pl4h0jjaR)
+[2023-06-27T15:19:45.629791 21992] Adding result key to C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/7/1467v3v2pjabcgj7l1l5hr85a8ckooiM
+[2023-06-27T15:19:45.670993 21992] Using default compression level 1
+[2023-06-27T15:19:45.677584 21992] Stored d71467v3v2pjabcgj7l1l5hr85a8ckooi in primary storage (C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/7/1467v3v2pjabcgj7l1l5hr85a8ckooiM)
+[2023-06-27T15:19:45.677584 21992] Result: cache_miss
+[2023-06-27T15:19:45.677584 21992] Result: direct_cache_miss
+[2023-06-27T15:19:45.677584 21992] Result: preprocessed_cache_miss
+[2023-06-27T15:19:45.677584 21992] Result: primary_storage_miss
+[2023-06-27T15:19:45.678605 21992] Acquired lock C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2023-06-27T15:19:45.681764 21992] Releasing lock C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2023-06-27T15:19:45.682765 21992] Acquired lock C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2023-06-27T15:19:45.685764 21992] Releasing lock C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2023-06-27T15:19:45.685764 21992] Unlink C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.mU0NgD
+[2023-06-27T15:19:45.686767 21992] Unlink C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.GtJndg
+[2023-06-27T15:19:45.686767 21992] Unlink C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.UXkN2h
+[2023-06-27T15:19:45.686767 21992] Unlink C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.WCBaYc.i
+[2023-06-27T15:19:45.688761 21992] Unlink C:\Users\HERSCH~1\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.WCBaYc
